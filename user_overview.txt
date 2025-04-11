@@ -1,0 +1,23 @@
+Total number of users: 3
+Total number of tasks: 5
+
+User: Administrator
+  Total tasks assigned: 2
+  % of total tasks assigned: 40.00%
+  % of tasks completed: 100.00%
+  % of tasks incomplete: 0.00%
+  % of tasks overdue: 0.00%
+
+User: IamTheNewUser
+  Total tasks assigned: 2
+  % of total tasks assigned: 40.00%
+  % of tasks completed: 0.00%
+  % of tasks incomplete: 100.00%
+  % of tasks overdue: 0.00%
+
+User: IamAlsoAuser
+  Total tasks assigned: 1
+  % of total tasks assigned: 20.00%
+  % of tasks completed: 100.00%
+  % of tasks incomplete: 0.00%
+  % of tasks overdue: 0.00%

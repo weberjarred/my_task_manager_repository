@@ -1,0 +1,31 @@
+Assigned to: Administrator,
+Task Title: Register Users with task_manager.py,
+Description: Use task_manager.py to add the usernames and passwords for all team members that will be using this program.,
+Date of Assignment: 10 Oct 2019,
+Task Due Date: 20 Oct 2019,
+Task Completion: Yes
+Assigned to: Administrator,
+Task Title: Assign initial tasks,
+Description: Use task_manager.py to assign each team member with appropriate tasks,
+Date of Assignment: 10 Oct 2019,
+Task Due Date: 25 Oct 2019,
+Task Completion: Yes
+Assigned to: IamTheNewUser,
+Task Title: Testing12,
+Description: This is a test,
+Date of Assignment: 21 Feb 2025,
+Task Due Date: 10 Dec 2029,
+Task Completion: No
+Assigned to: IamAlsoAuser,
+Task Title: Testing678,
+Description: This is yet another test,
+Date of Assignment: 21 Feb 2025,
+Task Due Date: 25 Jun 2089,
+Task Completion: Yes
+
+Assigned to: IamTheNewUser,
+Task Title: Testing345,
+Description: This is another test,
+Date of Assignment: 21 Feb 2025,
+Task Due Date: 14 April 2039,
+Task Completion: No
